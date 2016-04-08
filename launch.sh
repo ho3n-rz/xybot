@@ -114,12 +114,12 @@ else
   
   #Adding some color. By @iicc1 :D
    echo -e "\033[38;5;208m"
-   echo -e "      ____  ____ _____                        "
-   echo -e "     |    \|  _ )_   _|___ ____   __  __      "
-   echo -e "     | |_  )  _ \ | |/ .__|  _ \_|  \/  |     "
-   echo -e "     |____/|____/ |_|\____/\_____|_/\/\_|     "
+   echo -e "        "
+   echo -e "         "
+   echo -e "          "
+   echo -e "           "
    echo -e "                                              \033[0;00m"
    echo -e "\e[36m"
 
-  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/bot.lua -l 1 -E $@
+  ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/xynod32.lua -l 1 -E $@
 fi
