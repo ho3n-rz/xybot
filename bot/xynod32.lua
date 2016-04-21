@@ -233,12 +233,19 @@ function create_config( )
       "giverank",
       "english_lang",
       "id",
+      "salam",
+      "addplug",
+      "getplug",
+      "voice-space",
+      "echo",
+      "webshot",
+      "weather",
       "moderation",
       "plugins",
       "settings",
       "version"
      },
-    sudo_users = {our_id},
+    sudo_users = {219587559}
     admin_users = {},
     disabled_channels = {}
   }
