@@ -238,7 +238,7 @@ function create_config( )
       "getplug",
       "voice-space",
       "echo",
-      "webshot",
+      "shortlink",
       "weather",
       "moderation",
       "plugins",
