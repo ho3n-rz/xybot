@@ -233,6 +233,8 @@ function create_config( )
       "giverank",
       "english_lang",
       "id",
+      "spam",
+      "activeuser",
       "salam",
       "addplug",
       "getplug",
