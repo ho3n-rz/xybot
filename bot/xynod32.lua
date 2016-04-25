@@ -234,6 +234,7 @@ function create_config( )
       "english_lang",
       "id",
       "spam",
+      "tts",
       "activeuser",
       "salam",
       "addplug",
