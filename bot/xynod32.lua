@@ -243,6 +243,7 @@ function create_config( )
       "echo",
       "shortlink",
       "mylink",
+      "welcome",
       "translate",
       "text-sticker",
       "poker",
