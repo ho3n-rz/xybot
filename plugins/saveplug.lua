@@ -1,6 +1,3 @@
---Created by: @janlou & @Alirezame
---Powered by: @SUDO_TM & @AdvanTM
---⚠️CopyRight all right reserved⚠️
 
 local function saveplug(extra, success, result)
   local msg = extra.msg
