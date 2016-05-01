@@ -242,6 +242,7 @@ function create_config( )
       "voice-space",
       "echo",
       "saveplug",
+      "info",
       "shortlink",
       "mylink",
       "welcome",
