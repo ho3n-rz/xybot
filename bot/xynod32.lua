@@ -243,6 +243,8 @@ function create_config( )
       "info",
       "shortlink",
       "mylink",
+      "saveplug",
+      "fancy",
       "welcome",
       "translate",
       "text-sticker",
